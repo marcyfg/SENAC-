@@ -10,8 +10,11 @@ O foco principal é a construção de interfaces modernas, acessíveis e bem est
 <i>Codando meus projetos no Senac...</i>
 
 ## 📂 Tecnologias em Foco
+Repositório dedicado aos projetos desenvolvidos durante o curso no Senac. 
+Este espaço reúne aplicações práticas, exercícios e desafios focados em estruturação web com HTML5, estilização e boas práticas de desenvolvimento front-end.
+
 * **HTML5:** Estruturação semântica.
 * **CSS3:** Estilização, layouts (Flexbox/Grid) e responsividade.
 * **Boas Práticas:** Código limpo e organização de diretórios.
 
-> **— Senac**
+> **— Senac Santo André - Turma TI 101**
