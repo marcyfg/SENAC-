@@ -1,0 +1,70 @@
+body {
+    background-color: #fff0ff;
+    font-family: "Poppins", sans-serif;
+    padding: 30px;
+    line-height: 1.6;
+    color: #d35e96;
+  }
+
+  h1 {
+    font-family: "Parisienne", cursive;
+    font-size: 42px;
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: 10px;
+  }
+
+  #triste {
+    display: block;
+    margin: 25px auto 32px;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    transition: transform 200ms ease, box-shadow 200ms ease, filter 200ms ease;
+    will-change: tranform;
+}
+
+img {
+    display: block;
+    margin: 25px auto 32px;
+    width: 500px;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.adquirir {
+    background: rgb(175, 144, 255);
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+.silva {
+    display: grid;
+    background: #f7f7f7;
+    border: 1px solid e7e7e7;
+    padding: 20px;
+    border-radius: 5px;
+}
+ 
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px
+}
+
+.topo {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px
+}
+
+#sub {
+    font-size: 25px;
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: 10px;
+  }
