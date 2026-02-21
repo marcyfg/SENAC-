@@ -16,13 +16,13 @@ Este espaço reúne aplicações práticas, exercícios e desafios focados em es
 ## 🖥️ Tecnologias usadas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/>
-**HTML5:** Estruturação semântica.
+** HTML5: ** Estruturação semântica.
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/>
-**CSS:** Estilização, layouts (Flexbox/Grid) e responsividade.
+** CSS: ** Estilização, layouts (Flexbox/Grid) e responsividade.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/>
-**JavaScript:** Scripts e interações.
+** JavaScript: ** Scripts e interações.
   
 **Boas Práticas:** Código limpo e organização de diretórios.
 
